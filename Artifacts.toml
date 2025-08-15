@@ -5,51 +5,51 @@ os = "macos"
 
     [[GAP_pkg_profiling.download]]
     sha256 = "81b59fb803950bb6fec0d925bc4c2c63345a1e0e20aa614e564865ea3b6a9ae7"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v200.600.1+0/GAP_pkg_profiling.v200.600.1.aarch64-apple-darwin.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v200.600.2+0/GAP_pkg_profiling.v200.600.2.aarch64-apple-darwin.tar.gz"
 [[GAP_pkg_profiling]]
 arch = "aarch64"
-git-tree-sha1 = "5993d0933d8782cea8c3b6a61ea31146e0c5f53c"
+git-tree-sha1 = "9ca4eaa2c33b30e455b672c0c6e43d60471ecf6b"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_profiling.download]]
-    sha256 = "86d7244d01980e53ebcf63407440854ce59303d72c66cff06d1ba90ff94ee399"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v200.600.1+0/GAP_pkg_profiling.v200.600.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "e641194c85fe306c85a6fdb9e88947fa20af0b55008993530cfa923a8ee59aef"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v200.600.2+0/GAP_pkg_profiling.v200.600.2.aarch64-linux-gnu.tar.gz"
 [[GAP_pkg_profiling]]
 arch = "aarch64"
-git-tree-sha1 = "d78cf55dc1ef0661655df27e5b0a219ec868cfbd"
+git-tree-sha1 = "c0de0624aabee135768a321855c82604b4e736c2"
 libc = "musl"
 os = "linux"
 
     [[GAP_pkg_profiling.download]]
-    sha256 = "8cf1e1dcc045d7cedaeb5386556605cc3411050ccefeec80fab76f5d2dc0691b"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v200.600.1+0/GAP_pkg_profiling.v200.600.1.aarch64-linux-musl.tar.gz"
+    sha256 = "8b1e067fc6abb160f52e4777cc0905d63cbc4cce8c273589c14664054e11a9c6"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v200.600.2+0/GAP_pkg_profiling.v200.600.2.aarch64-linux-musl.tar.gz"
 [[GAP_pkg_profiling]]
 arch = "aarch64"
-git-tree-sha1 = "87d449395e428fb4f678ac7eaca2af890ad39719"
+git-tree-sha1 = "e38f3f1c8d6faa24e5fa4aed4d1b92d1640fad7e"
 os = "freebsd"
 
     [[GAP_pkg_profiling.download]]
-    sha256 = "8b2000c64939cd0f7476a6ee7b51337928acdf2a32c2ef22c3bae56057e6d53e"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v200.600.1+0/GAP_pkg_profiling.v200.600.1.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "087a5eddcd13142fa730110ca95492b5942729b36ddaff22602bb86c3311df1f"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v200.600.2+0/GAP_pkg_profiling.v200.600.2.aarch64-unknown-freebsd.tar.gz"
 [[GAP_pkg_profiling]]
 arch = "powerpc64le"
-git-tree-sha1 = "b977aeb873885963a977012ae173225fa86268ba"
+git-tree-sha1 = "34fbefacab073030a7f22672a508095d5b4807c4"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_profiling.download]]
-    sha256 = "f9817bd385b50ede4381a272bba97d86e32f3a7778390c5573ed3eaa9e72aade"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v200.600.1+0/GAP_pkg_profiling.v200.600.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "7dc0bf47ab897c20f68d02a706d8e6d527f3e3b781034d73e0ec477034f556aa"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v200.600.2+0/GAP_pkg_profiling.v200.600.2.powerpc64le-linux-gnu.tar.gz"
 [[GAP_pkg_profiling]]
 arch = "riscv64"
-git-tree-sha1 = "8b486d1b75013771b29519955fbc2258f4d0332c"
+git-tree-sha1 = "34cea11173223d010dcda785c6bd922a3ab66368"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_profiling.download]]
-    sha256 = "b8b26e7e7444baeef2d2f16214df60dc86b54ca6af13f4dfae5044b22771a37a"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v200.600.1+0/GAP_pkg_profiling.v200.600.1.riscv64-linux-gnu.tar.gz"
+    sha256 = "bfdde487f5815b686b80d87418dcf0daa9e9da82e68062037d0a1c69ef4008ef"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v200.600.2+0/GAP_pkg_profiling.v200.600.2.riscv64-linux-gnu.tar.gz"
 [[GAP_pkg_profiling]]
 arch = "x86_64"
 git-tree-sha1 = "a07df54f16f4e01601c176de47b24d5d2bb9c0b0"
@@ -57,30 +57,30 @@ os = "macos"
 
     [[GAP_pkg_profiling.download]]
     sha256 = "cff298ec1bddd7eddba6e50322b158f37e215e25b526b15ccbfa8fe0869a2eb1"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v200.600.1+0/GAP_pkg_profiling.v200.600.1.x86_64-apple-darwin.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v200.600.2+0/GAP_pkg_profiling.v200.600.2.x86_64-apple-darwin.tar.gz"
 [[GAP_pkg_profiling]]
 arch = "x86_64"
-git-tree-sha1 = "1f47f63161aeab2e015927aed6340b843a1d6a1a"
+git-tree-sha1 = "001e7a183f4bcfddd6fc935c93cfa9c161b93c62"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_profiling.download]]
-    sha256 = "fe0d80f22f1853ca919f4021b4dccaf09c5bbaf0dc2ed6767029a58637506cc0"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v200.600.1+0/GAP_pkg_profiling.v200.600.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "1aa0e4fe86a100147f0756d30888cb3f81bc3d574342e341b5835989b703da20"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v200.600.2+0/GAP_pkg_profiling.v200.600.2.x86_64-linux-gnu.tar.gz"
 [[GAP_pkg_profiling]]
 arch = "x86_64"
-git-tree-sha1 = "05a56a8cd49dc659cad9ed313428e6d4d1e3b8a2"
+git-tree-sha1 = "59b20355db9a58106c0588c87a1184928abbb017"
 libc = "musl"
 os = "linux"
 
     [[GAP_pkg_profiling.download]]
-    sha256 = "51abcf73aae96140d10781a56785d03765f9e711b8c84ec9dbeaec9fd251969f"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v200.600.1+0/GAP_pkg_profiling.v200.600.1.x86_64-linux-musl.tar.gz"
+    sha256 = "2b89465061bf85bd80f1e78ba96c97492bb63281262d7533459d5fdf5e80dd7e"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v200.600.2+0/GAP_pkg_profiling.v200.600.2.x86_64-linux-musl.tar.gz"
 [[GAP_pkg_profiling]]
 arch = "x86_64"
-git-tree-sha1 = "a632e00a862e05d9f1cea14d470dcd9247fc46b3"
+git-tree-sha1 = "2ee4c01cdec78743c082255a123aae309b625e2b"
 os = "freebsd"
 
     [[GAP_pkg_profiling.download]]
-    sha256 = "566a80c9e9a4068f11ffbf1c34b03789dd29f6acd612d4a8cdb3e97064aac839"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v200.600.1+0/GAP_pkg_profiling.v200.600.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "e26415323fe2ba211cdd67bdf90526098f6efda7710aa6d0bb8cba1784b2c2f1"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_profiling_jll.jl/releases/download/GAP_pkg_profiling-v200.600.2+0/GAP_pkg_profiling.v200.600.2.x86_64-unknown-freebsd.tar.gz"
